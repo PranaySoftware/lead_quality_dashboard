@@ -152,6 +152,7 @@ npx serve frontend
 ```
 
 or VSCode Live Server extension.
+or Double click in frontend/index.html to open Dashboard in default browser.
 
 ---
 
